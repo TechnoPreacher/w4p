@@ -11,11 +11,17 @@
 #### git add .
 #### gh repo create
 #### git commit -m "first commit of index.php to branch master"
-#### git push origin master ![img.png](img.png)
+#### git push origin master
+#### Результат
+![img.png](img.png)
+  
+  
+Этапы 5-7
 
 #### git branch develop ![img_1.png](img_1.png)
-
 #### git checkout develop ![img_2.png](img_2.png)  
-
 #### git checkout -b feature ![img_3.png](img_3.png)
+#### Результат
+![img_4.png](img_4.png)
 
+Этап 8
